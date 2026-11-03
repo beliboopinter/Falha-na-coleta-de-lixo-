@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "rua": "Rua Caxias",
+    "bairro": "Centro",
+    "dias": ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira"],
+    "horario": "Manhã e tarde",
+    "tipo": "Coleta seletiva"
+  },
+  {
+    "id": 2,
+    "rua": "Avenida Presidente Vargas",
+    "bairro": "Centro",
+    "dias": ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira"],
+    "horario": "Manhã e tarde",
+    "tipo": "Coleta seletiva"
+  },
+  {
+    "id": 3,
+    "rua": "Avenida 24 de Agosto",
+    "bairro": "Centro",
+    "dias": ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira"],
+    "horario": "Manhã e tarde",
+    "tipo": "Coleta seletiva"
+  },
+  {
+    "id": 4,
+    "rua": "Avenida Dom Pedro",
+    "bairro": "Centro",
+    "dias": ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira"],
+    "horario": "Manhã e tarde",
+    "tipo": "Coleta seletiva"
+  },
+  {
+    "id": 5,
+    "rua": "Rua da Paz",
+    "bairro": "Olímpica",
+    "dias": ["Sexta-feira"],
+    "horario": "Tarde",
+    "tipo": "Coleta seletiva"
+  }
+]
