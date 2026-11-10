@@ -26,7 +26,6 @@ O MVP (Produto Mínimo Viável) será uma versão inicial de um site com funcion
 
 - HTML
 - CSS
-- JavaScript
 - Git e GitHub
 
 ## Integrantes da equipe
