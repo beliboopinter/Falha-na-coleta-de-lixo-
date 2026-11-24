@@ -31,8 +31,6 @@ O MVP (Produto Mínimo Viável) será uma versão inicial de um site com funcion
 ## Integrantes da equipe
 
 - Luana Caroline Moreira Vargas
-- Bruna Rodrigues Fernandes.
-- Nicolai Gilbran da Silva.
 - João Pedro Latorre Silveira.
 - Isabeli Pinter.
 
